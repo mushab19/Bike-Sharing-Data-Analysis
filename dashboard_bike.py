@@ -31,7 +31,7 @@ max_date = day_df["dteday"].max()
 # Sidebar untuk pengaturan tanggal
 with st.sidebar:
     # Membaca gambar dari folder lokal
-    image_path = "1200px-Melbourne_City_Bikes.JPEG"  # Ganti dengan path gambar Anda
+    image_path = "1200px-Melbourne_City_Bikes.jpeg"  # Ganti dengan path gambar Anda
     image = Image.open(image_path)
 
     # Menampilkan gambar yang dibaca
