@@ -1,5 +1,7 @@
 # Bike Sharing Data Analysis
 
+A visualisation of Bike Sharing Data Analysis using python and deploy by streamlit. The process starts from gathering data, cleaning data, exploring data, until visualizing the data into interactive dashboard. I used dataset based on time series.
+
 ## Setup environment
 ```
 pipenv install
